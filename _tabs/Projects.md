@@ -6,7 +6,7 @@ order: 5
 
 # Projects
 
-This will be a list of my projects.
+> This will be a list of my projects.
 
 
 
