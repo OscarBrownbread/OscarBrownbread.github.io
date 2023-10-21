@@ -22,7 +22,7 @@ My research projects include phosphorescent organic LEDs, the hydrogen-evolution
     </tr>
 </table>
 
-- **Dr. rer. nat. (PhD)**
+- **Doctoral degree Dr. rer. nat. (PhD)**
   - Thesis topic: _Photocatalysis with carbon nitrides for hydrogen evolution from water_
   - What I did: Designed and set up the photocatalysis lab and investigated CN photocatalysts.
     I developed these catalysts for the hydrogen-evolution reaction with solar simulators.
@@ -30,13 +30,12 @@ My research projects include phosphorescent organic LEDs, the hydrogen-evolution
 
 <table>
     <tr>
-        <td> Apr 2012 - May 2016</td>
-        <td>PhD continued with Prof Bettina Lotsch at the Max Planck Institute for Solid State Research (MPI-FKF)</td>
+        <td> Apr 2012 – May 2016</td>
+        <td>PhD continued with Prof Bettina Lotsch, Max Planck Institute for Solid State Research</td>
     </tr>
     <tr>
-        <td> Oct 2010 - Apr 2012</td>
-        <td>PhD with Prof Bettina Lotsch, Inorganic Chemistry group, at
-Ludwig-Maximilian-Universität (LMU)</td>
+        <td> Oct 2010 – Apr 2012</td>
+        <td>PhD with Prof Bettina Lotsch, Inorganic Chemistry group, Ludwig-Maximilian-Universität</td>
     </tr>
 </table>
 
@@ -48,8 +47,8 @@ Ludwig-Maximilian-Universität (LMU)</td>
 
 <table>
     <tr>
-        <td> Oct 2008 - Oct 2010</td>
-        <td>Master’s studies with Prof Werner Blau, Molecular Electronics group, at Trinity College Dublin (TCD)</td>
+        <td> Oct 2008 – Oct 2010</td>
+        <td>M.Sc. with Prof Werner Blau, Molecular Electronics, Trinity College Dublin (TCD)</td>
     </tr>
 </table>
 
@@ -59,7 +58,7 @@ Ludwig-Maximilian-Universität (LMU)</td>
 
 <table>
     <tr>
-        <td> Oct 2004 - Oct 2008</td>
+        <td> Oct 2004 – Oct 2008</td>
         <td>Bachelor thesis at Dublin City University (DCU)</td>
     </tr>
 </table>
