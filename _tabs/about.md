@@ -8,54 +8,58 @@ order: 1
 I'm a highly educated, international, and dedicated scientist with broad-ranging skills in physics, chemistry, and nanotechnology.
 I have an excellent education with top grades from distinguished institutions such as Trinity College Dublin (The University of
 Dublin), Ludwig-Maximilians-Universität, and the Max-Planck-Institut fur Festkörperforschung. I
-hold a doctorate degree in inorganic chemistry and a Master’s degree in physics.
+hold a doctorate degree in inorganic chemistry and a Master’s degree in physics. I'm currently working as a language copyeditor at Copernicus Publications.
 
 My research projects include phosphorescent organic LEDs, the hydrogen-evolution reaction with carbon nitride photocatalysts, and superhydrophobic surfaces.
     
 # Curriculum vitæ
 ## Education
-06/2016–08/2016
-:    **Postdoctoral research with Prof. Bettina Lotsch, Nanochemistry group, Stuttgart**
 
-- Dr. rer. nat. (PhD)
+<table>
+    <tr>
+        <td>Jun 2016 – Aug 2016</td>
+        <td>Postdoc with Prof Bettina Lotsch, Nanochemistry group, MPI-FKF, Stuttgart</td>
+    </tr>
+</table>
 
-04/2012 - 05/2016
-:    **PhD continued with Prof. Bettina Lotsch, Nanochemistry group at the Max
-Planck Institute for Solid State Research (MPI-FKF), Stuttgart, Germany**
+- **Dr. rer. nat. (PhD)**
+  - Thesis topic: _Photocatalysis with carbon nitrides for hydrogen evolution from water_
+  - What I did: Designed and set up the photocatalysis lab and investigated CN photocatalysts.
+    I developed these catalysts for the hydrogen-evolution reaction with solar simulators.
+  - Grade: _magna cum laude_
 
-10/2010 - 04/2012
-:    **PhD doctoral studies with Prof. Bettina Lotsch, Inorganic Chemistry group at
-Ludwig-Maximilian-Universit¨at (LMU), Munich, Germany**
+<table>
+    <tr>
+        <td> Apr 2012 - May 2016</td>
+        <td>PhD continued with Prof Bettina Lotsch at the Max Planck Institute for Solid State Research (MPI-FKF)</td>
+    </tr>
+    <tr>
+        <td> Oct 2010 - Apr 2012</td>
+        <td>PhD with Prof Bettina Lotsch, Inorganic Chemistry group, at
+Ludwig-Maximilian-Universität (LMU)</td>
+    </tr>
+</table>
 
-Thesis topic
-:    **Photocatalysis with carbon nitrides for hydrogen evolution from water**
-What I did
-:    Designed and setup the photocatalysis lab and investigated photoactive powders
-with low-cost synthesis. I developed these catalysts to split water using light.
+- **Master of Science in Physics (M.Sc.)**
+  - Thesis topic: _Phosphorescent materials for organic light-emitting diodes_
 
-Grade
-:    magna cum laude
+  - What I did: Developed an organic-LED device with a technique that triples the light efficiency.
+  - Grade: Pass (pass/fail grading only)
 
-- Master of Science in Physics (M.Sc.)
+<table>
+    <tr>
+        <td> Oct 2008 - Oct 2010</td>
+        <td>Master’s studies with Prof Werner Blau, Molecular Electronics group, at Trinity College Dublin (TCD)</td>
+    </tr>
+</table>
 
-10/2008 - 10/2010
-:    **Master’s studies with Prof. Werner Blau, Molecular Electronics group at Trinity
-College Dublin (TCD), University of Dublin, Ireland**
+- **Bachelor of Science in Applied Physics (B.Sc.)**
+  - Thesis topic: _Superhydrophobic surfaces by simple production methods_
+  - Grade: first-class honours
 
-Thesis topic
-:    Phosphorescent materials for organic light emitting diodes
-
-What I did
-:    Developed an organic-LED device with a technique that triples the light efficiency.
-Grade: Pass (pass/fail grading only)
-
-• Bachelor of Science in Applied Physics (B.Sc.)
-
-10/2004 - 10/2008
-:    **Bachelor thesis at Dublin City University (DCU)**
-
-Thesis topic
-:    Superhydrophobic surfaces by simple production methods
-
-Grade
-: first class honours
+<table>
+    <tr>
+        <td> Oct 2004 - Oct 2008</td>
+        <td>Bachelor thesis at Dublin City University (DCU)</td>
+    </tr>
+</table>
